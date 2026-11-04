@@ -1,0 +1,9 @@
+{
+  "userName": "Basel",
+  "age": 24,
+  "skills": ["js", "node"],
+  "address": {
+    "GZ": "Gaza"
+  },
+  "isAdmin": true
+}
